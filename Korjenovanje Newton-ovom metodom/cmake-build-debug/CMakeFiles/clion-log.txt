@@ -1,0 +1,4 @@
+"D:\Installed games and programs\C++\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Dino\Programiranje\Metode implementacije funkcije kvadratnog korjenovanja u kompjuterskoj nauci\Cpp kodovi\Korjenovanje Newton-ovom metodom"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Dino/Programiranje/Metode implementacije funkcije kvadratnog korjenovanja u kompjuterskoj nauci/Cpp kodovi/Korjenovanje Newton-ovom metodom/cmake-build-debug

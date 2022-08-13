@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dino/Programiranje/Metode implementacije funkcije kvadratnog korjenovanja u kompjuterskoj nauci/Cpp kodovi/Korjenovanje Newton-ovom metodom/main.cpp
+iostream
+-
+chrono
+-
+

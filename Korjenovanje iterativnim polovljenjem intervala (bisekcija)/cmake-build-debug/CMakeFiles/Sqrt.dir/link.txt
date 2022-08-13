@@ -1,0 +1,3 @@
+"D:\Installed games and programs\C++\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Sqrt.dir/objects.a
+"D:\Installed games and programs\C++\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\Sqrt.dir/objects.a @CMakeFiles\Sqrt.dir\objects1.rsp
+"D:\Installed games and programs\C++\MinGW\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\Sqrt.dir/objects.a -Wl,--no-whole-archive  -o Sqrt.exe -Wl,--out-implib,libSqrt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sqrt.dir\linklibs.rsp

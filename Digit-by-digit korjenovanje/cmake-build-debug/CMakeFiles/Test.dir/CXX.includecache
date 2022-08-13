@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dino/Programiranje/Metode implementacije funkcije kvadratnog korjenovanja u kompjuterskoj nauci/Cpp kodovi/Digit-by-digit korjenovanje/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+
